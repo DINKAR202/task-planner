@@ -17,7 +17,7 @@ A simple **Month View Task Planner** built with **Vite**, and **Tailwind CSS**, 
 
 ## Tech Stack
 
-- **Frontend:** React 18 + Vite
+- **Frontend:** Vite + Typescript
 - **Styling:** Tailwind CSS
 - **State Management:** React Context API
 - **Version Control:** Git & GitHub
